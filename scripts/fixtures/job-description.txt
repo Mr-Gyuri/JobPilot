@@ -1,0 +1,37 @@
+Senior Backend Engineer (Python) - Remote Philippines
+GrowthBank Technologies
+
+About the role
+We are looking for a Senior Backend Engineer to own our payments and ledger services. You will
+work with a small platform team distributed across Manila and Singapore. This is a fully remote
+role, PHP 180,000 - 250,000 per month depending on experience.
+
+Key Responsibilities
+- Design, build and operate backend services in Python (FastAPI) that process high volumes of financial transactions
+- Own the correctness of our double-entry ledger, including reconciliation and audit reporting
+- Improve observability and reduce p99 latency across our core payment APIs
+- Partner with the data team on event streaming into our warehouse using Kafka
+- Take part in the on-call rotation and drive incident postmortems
+- Mentor mid-level engineers and raise the bar in code review
+
+Requirements
+- 6+ years of professional backend engineering experience
+- Deep expertise in Python and PostgreSQL, including query tuning and schema design
+- Production experience with FastAPI or a comparable async Python framework
+- Strong grasp of microservices, REST API design and distributed systems trade-offs
+- Hands-on experience with AWS, Docker and Kubernetes
+- Experience with Kafka or another event streaming platform
+- Familiarity with infrastructure as code, ideally Terraform
+- Solid testing discipline, TDD and CI/CD
+- Excellent written communication for an async, distributed team
+
+Nice to have
+- Fintech or payments domain experience
+- Experience with Go for performance-critical services
+- Exposure to gRPC
+- Knowledge of PCI DSS compliance requirements
+
+Benefits
+- Fully remote within the Philippines
+- HMO from day one, plus dependents
+- Annual learning budget
